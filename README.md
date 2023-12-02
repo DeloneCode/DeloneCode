@@ -5,6 +5,7 @@ Software Engineer
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [diego.delaunay10@live.com](mailto:diego.delaunay10@live.com)
+  
 <a href="https://www.github.com/DeloneCode" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/DeloneCode?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/DiegoDelone" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/DiegoDelone?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
